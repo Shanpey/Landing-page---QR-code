@@ -2,15 +2,6 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
-
-  - [Screenshot](#screenshot)
-  - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Author](#author)
-
 ### Screenshot
 
 ![](/images/screenshot.png)
@@ -27,11 +18,11 @@ My landing page creation process was to try to build the HTML as structured as p
 
 ### What I learned
 
-Eu assimilei melhor o conteúdo de flex box e de organização dos elementos na página. Mas o mais importante foi conseguir encontrar alternativas nos momentos em que as coisas não funcionaram como eu pensei que deveriam.
+I better assimilated the content of the flex box and the organization of the elements on the page. But most importantly, I was able to find alternatives in times when things didn't work out the way I thought they should.
 
 ### Continued development
 
-Meu objetivo é continuar evoluindo com CSS, no momento praticando mais flexbox. Houveram alguns momentos na construção da landing page que as coisas não funcionaram como deveriam. Preciso estudar um pouco mais o assunto para não ser surpreendido novamento.
+My goal is to keep evolving with CSS, at the moment practicing more flexbox. There were a few moments in building the landing page when things didn't work out as they should. I need to study the subject a little more so as not to be surprised again.
 
 ## Author
 - Frontend Mentor - [@Shanpey](https://www.frontendmentor.io/profile/Shanpey)
